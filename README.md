@@ -1,7 +1,12 @@
 <H1 align=center>
 Hello! I'm Zackery Bellerose</h1>
 
-I'm 20 years old, trying to become a Software Engineer. My Github is not currently done, so please bare with the blandness. Thanks!
+I'm 20 years old, working to become a Software Engineer. Currently looking for a summer 2022 internship, feel free to reach out.
+
+**📫 How to reach me:**
+Email: Zack.bellerose@gmail.com
+LinkedIn: [Linkedin](https://www.linkedin.com/in/zackery-bellerose/)
+
 
 <!--
 **MVPZl0b/MVPZl0b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
